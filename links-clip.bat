@@ -1,1 +1,0 @@
-type links.js | clip
